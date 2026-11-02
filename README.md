@@ -1,4 +1,4 @@
-git commit -m "first commit"# Tarjetas
+# Tarjetas
 
 Plugin de WordPress para la creación, gestión y publicación de tarjetas de presentación digitales interactivas para colaboradores y equipos de trabajo.
 
